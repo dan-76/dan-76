@@ -1,5 +1,5 @@
-# Hi, I'm Daniel 👨‍💻 
+# Hi, I'm Daniel 💻
 
 - 📊 Data Scientist
-- 🌱 Learning to grow. Launching new insights
+- 🌱 Learning to grow & Launching new insights
 - 🌟 Simplicity is the ultimate sophistication.
